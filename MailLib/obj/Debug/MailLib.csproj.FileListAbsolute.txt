@@ -1,0 +1,16 @@
+F:\Practice\SendMailTestAPP\MailLib\bin\Debug\MailLib.dll
+F:\Practice\SendMailTestAPP\MailLib\bin\Debug\MailLib.pdb
+F:\Practice\SendMailTestAPP\MailLib\obj\Debug\MailLib.dll
+F:\Practice\SendMailTestAPP\MailLib\obj\Debug\MailLib.pdb
+F:\Practice\SendMailTestAPP\MailLib\bin\Debug\MailLib.XML
+F:\Practice\SendMailTestAPP\MailLib\obj\Debug\MailLib.csprojResolveAssemblyReference.cache
+F:\My_Task\SendMailTestAPP\MailLib\bin\Debug\MailLib.XML
+F:\My_Task\SendMailTestAPP\MailLib\bin\Debug\MailLib.dll
+F:\My_Task\SendMailTestAPP\MailLib\bin\Debug\MailLib.pdb
+F:\My_Task\SendMailTestAPP\MailLib\obj\Debug\MailLib.dll
+F:\My_Task\SendMailTestAPP\MailLib\obj\Debug\MailLib.pdb
+E:\My_Task\SendMailTestAPP\MailLib\bin\Debug\MailLib.XML
+E:\My_Task\SendMailTestAPP\MailLib\bin\Debug\MailLib.dll
+E:\My_Task\SendMailTestAPP\MailLib\bin\Debug\MailLib.pdb
+E:\My_Task\SendMailTestAPP\MailLib\obj\Debug\MailLib.dll
+E:\My_Task\SendMailTestAPP\MailLib\obj\Debug\MailLib.pdb

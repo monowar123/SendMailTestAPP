@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MailLib</name>
+    </assembly>
+    <members>
+        <member name="T:MailLib.MailHelper">
+            <summary>
+            The helper class for sending mail;
+            </summary>
+        </member>
+        <member name="F:MailLib.MailHelper.SendCompleted">
+            <summary>
+            Gets or Sets the SendCompleted callback function
+            </summary>
+        </member>
+        <member name="M:MailLib.MailHelper.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            MailHelper Constructor
+            </summary>
+            <param name="_senderEmail">Sender email address</param>
+            <param name="_mailServer">Address of the hosted mail server</param>
+            <param name="_mailPort">port number of the hosted mail server</param>
+            <param name="_userName">Sender user name</param>
+            <param name="_password">Sender password</param>
+        </member>
+        <member name="M:MailLib.MailHelper.SendMail(System.String,System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.String,System.String)">
+            <summary>
+            Send mail to the user
+            </summary>
+            <param name="subject">Subject of the mail</param>
+            <param name="body">Body of the mail</param>
+            <param name="recipientEmail">List of Recipient email address</param>
+            <param name="ccEmail">(Optional)List of CC email address</param>
+            <param name="bccEmail">(Optional)List of BCC email address</param>
+            <param name="senderName">(Optional)Sender display name</param>
+            <param name="recipientName">(Optional)Recipient display name</param>
+        </member>
+        <member name="P:MailLib.MailHelper.Attachment">
+            <summary>
+            Gets or Sets attachment file address
+            </summary>
+        </member>
+    </members>
+</doc>
